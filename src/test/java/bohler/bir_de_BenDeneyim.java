@@ -2,6 +2,11 @@ package bohler;
 
 public class bir_de_BenDeneyim {
     private String karasenir;
+
+    private char newo;
+
+    private int yeni;
+
     private int kozakli;
     private double kanlica;
 
